@@ -53,13 +53,17 @@ SimpleSnow has got special functions to start and stop snow on webpage:
 SimpleSnow.js makes snowflakes for almost all screen widths - from 300 to 3000 - snowfall will be correct and adaptive. But you can regulate fall speed and fall height
 Fall height regulates by snow_cont height. Add this to your CSS file:
 
-`.snow-container {
+```
+.snow-container {
     min-height: <your height>; /*100vh max recommended*/
-}`
+}
+```
 
 Notice - the more heigth, the more speed become. To regulate fall speed, add this:
 
-`.snowflake {
+```
+.snowflake {
     transition: all <transition time>; /*5s for 50vh and 7s for 100vh recommended*/
-}`
+}
+```
 
