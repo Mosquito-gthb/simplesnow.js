@@ -1,0 +1,21 @@
+body {
+    background-color: #50738f;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+#toggle {
+    min-width: 200px;
+    min-height: 50px;
+    padding: 20px;
+    font-size: x-large;
+    background-color: white;
+    box-shadow: 0 0 5px #fffe, 0 0 10px #fffa;
+    border: 0px;
+    color:#50738f;
+    font-weight: bolder;
+    border-radius: 15px;
+}
