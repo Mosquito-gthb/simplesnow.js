@@ -7,7 +7,7 @@ let screen_index = 0;
 if (screen_width > 1440) {
     screen_index = 0.6;
 } else if (screen_width > 1020) {
-    screen_index = 8;
+    screen_index = 0.8;
 } else if (screen_width > 600) {
     screen_index = 1.5;
 } else if (screen_width < 600) {
