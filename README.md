@@ -6,7 +6,7 @@ Hello! Thank you for interest to SimpleSnow.js. Here is a short user guide, how 
 
 
 ## Connection
-1. First of all, connect simplesnow.css to head tag and insert simplesnow. It must be before your own styles. Adds at the end of body tag:
+1. First of all, connect simplesnow.css to head tag and insert simplesnow. It must be before your own styles.
 
 ```
 <head>
@@ -14,7 +14,7 @@ Hello! Thank you for interest to SimpleSnow.js. Here is a short user guide, how 
 ... <your styles> ...
 </head>
 ```
-
+Add at the end of body tag this script tag:
 ```
 <body>
 ... <your code here> ...
