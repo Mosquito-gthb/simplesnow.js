@@ -10,7 +10,7 @@ Hello! Thank you for interest to SimpleSnow.js. Here is a short user guide, how 
 
 ```
 <head>
-<link rel="stylesheet" href="..\pathtocss\demo_style.css" />
+<link rel="stylesheet" href="..\pathtocss\simplesnow.css" />
 ... <your styles> ...
 </head>
 ```
